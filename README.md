@@ -1,0 +1,1 @@
+# Sample PowerShell FunctionApp to play around
